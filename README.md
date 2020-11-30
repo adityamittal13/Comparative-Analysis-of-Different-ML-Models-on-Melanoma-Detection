@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-This liveProject is intended for intermediate Python programmers with at least some deep learning experience, preferably in image classification with convolutional
+This project is intended for intermediate Python programmers with at least some deep learning experience, preferably in image classification with convolutional
 neural networks. Knowledge of PyTorch would be helpful, but is not required. No prior experience in generative modeling, including GANs, is assumed. 
 
 ### Tools
